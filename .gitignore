@@ -5,10 +5,7 @@
 # IDE and Project setting and other
 *target/
 *.settings/
-
 *.project
-.mvn/
-
 
 
 # Log file
